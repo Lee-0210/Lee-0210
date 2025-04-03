@@ -2,8 +2,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-0210&show_icons=true&theme=transparent)
-
-
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-0210&langs_count=8)
 <!--
 **Lee-0210/Lee-0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
