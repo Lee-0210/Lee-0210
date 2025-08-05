@@ -1,4 +1,4 @@
-## Hi there 👋
+## 풀스택 웹개발자 이준영입니다.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-0210&show_icons=true&theme=transparent)
