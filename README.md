@@ -1,7 +1,10 @@
+<!-- 인사말 -->
+<p align="center" style="font-size: 2.8em; font-weight: bold; margin: 0;">
+  안녕하세요, 풀스택 개발자 이준영입니다.
+</p>
 
-<h2 align="center">안녕하세요 풀스택 개발자 이준영입니다.</h2>
-
-<h3>🛠️사용언어</h3>
+<!-- 사용 언어 -->
+<h3>🛠️사용 언어</h3>
 <div>
   
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -21,6 +24,7 @@
   
 </div>
 
+<!-- 프로젝트 테이블 -->
 | 프로젝트명 | 기간 | 기술 스택 | 역할 | 프로젝트 설명 |
 |------------|------|-----------|------|-------------------------|
 | [Resonos_React](https://github.com/Lee-0210/Resonos_React) | 2025.08.06 ~ 2025.08.22 | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | resonos 프로젝트 리빌드 + 자유커뮤니티 서비스 |
