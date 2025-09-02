@@ -3,10 +3,12 @@
   안녕하세요, 풀스택 개발자 이준영입니다.
 </p>
 
-<!-- 사용 언어 -->
-<h3>🛠️사용 언어</h3>
+<!-- 기술 스 -->
+<h3>🛠️기슬 스택</h3>
 <div>
   
+  <img width="468" height="579" alt="Java" src="https://github.com/user-attachments/assets/2b807b2d-5e2e-42c8-ac29-b9140e8662a4" />
+
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
