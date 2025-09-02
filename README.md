@@ -1,5 +1,5 @@
 <!-- 인사말 -->
-<p align="center" style="font-size: 3.8em; font-weight: bold; margin: 0;">
+<p align="center" style="font-size: 32px; font-weight: bold; margin: 0;">
   안녕하세요, 풀스택 개발자 이준영입니다.
 </p>
 
@@ -34,6 +34,10 @@
 | [The Joyful Delivery](https://github.com/skymin022/the_joyful_delivery) | 2025.05.16 ~ 2025.05.28 | HTML, CSS, JavaScript | API 설계, DB 설계, UI 구현 | 좀 더 편리한 택배 접수, 조회 서비스 |
 
 
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
   
