@@ -23,8 +23,8 @@
 
 | 프로젝트명          | 기간 | 기술 스택 | 역할 | 프로젝트 설명 |
 |-----------          |------|-----------|------|--- |
-| Resonos             | 3주 | Spring Boot, React, MySQL | 백엔드 API 설계, DB 설계, UI 제작 | 한국 친화적인 음악 리뷰 커뮤니티 서비스
-| The Joyful Delivery | 9일 | HTML, CSS, JavaScript | 백엔드 API 설계, DB 설계, UI 제작 | 좀 더 편리한 택배 접수, 조회를 할 수 있는 서비스
+| <a href="https://github.com/Lee-0210/Resonos_React">Resonos</a> | 3주 | Spring Boot, React, MySQL | 백엔드 API 설계, DB 설계, UI 제작 | 한국 친화적인 음악 리뷰 커뮤니티 서비스
+| <a href="https://github.com/skymin022/the_joyful_delivery">The Joyful Delivery</a> | 9일 | HTML, CSS, JavaScript | 백엔드 API 설계, DB 설계, UI 제작 | 좀 더 편리한 택배 접수, 조회를 할 수 있는 서비스
 
 
 <div align="center">
