@@ -1,4 +1,5 @@
-# 안녕하세요 풀스택 개발자 이준영입니다.
+
+<h1 align="center">안녕하세요 풀스택 개발자 이준영입니다.</h1>
 
 ### 기술 <br>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
