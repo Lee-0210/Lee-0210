@@ -1,5 +1,5 @@
 <!-- 인사말 -->
-<p align="center" style="font-size: 32px; font-weight: bold; margin: 0;">
+<p>
   안녕하세요, 풀스택 개발자 이준영입니다.
 </p>
 
