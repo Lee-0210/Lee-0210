@@ -2,7 +2,7 @@
 <h1 align="center">안녕하세요 풀스택 개발자 이준영입니다.</h1>
 
 <h3 align="center">Skills</h3>
-<p align="center">
+<div align="center">
   
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -19,7 +19,7 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
-</p>
+</div>
 
 
 
