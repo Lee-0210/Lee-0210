@@ -21,25 +21,16 @@
   
 </div>
 
+| 프로젝트명          | 기간 | 기술 스택 | 역할 |
+|-----------          |------|-----------|------|
+| Resonos             | 3주 | Spring Boot, React, MySQL | 백엔드 API 설계, DB 설계, UI 제작 |
+| The Joyful Delivery | 9일 | HTML, CSS, JavaScript | 백엔드 API 설계, DB 설계, UI 제작 |
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-0210&show_icons=true&theme=transparent)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-0210&langs_count=10)
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-0210&show_icons=true&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-0210&langs_count=10)
+</div>
 <br>
 ![](./profile-3d-contrib/profile-green-animate.svg)
-<!--
-**Lee-0210/Lee-0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
