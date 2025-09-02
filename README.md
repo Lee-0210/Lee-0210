@@ -1,5 +1,5 @@
 <!-- 인사말 -->
-<p align="center" style="font-size: 2.8em; font-weight: bold; margin: 0;">
+<p align="center" style="font-size: 3.8em; font-weight: bold; margin: 0;">
   안녕하세요, 풀스택 개발자 이준영입니다.
 </p>
 
@@ -25,6 +25,7 @@
 </div>
 
 <!-- 프로젝트 테이블 -->
+<h3>🧑‍💻진행한 프로젝트</h3>
 | 프로젝트명 | 기간 | 기술 스택 | 역할 | 프로젝트 설명 |
 |------------|------|-----------|------|-------------------------|
 | [Resonos_React](https://github.com/Lee-0210/Resonos_React) | 2025.08.06 ~ 2025.08.22 | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | resonos 프로젝트 리빌드 + 자유커뮤니티 서비스 |
