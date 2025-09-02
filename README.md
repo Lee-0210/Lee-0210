@@ -23,14 +23,17 @@
 
 | 프로젝트명          | 기간 | 기술 스택 | 역할 | 프로젝트 설명 |
 |-----------          |------|-----------|------|--- |
-| Resonos             | 3주 | Spring Boot, React, MySQL | 백엔드 API 설계, DB 설계, UI 제작 | 한국 친화적인 음악 리뷰 커뮤니티 서비스 제공을 목표로 하여 진행하였습니다.
-| The Joyful Delivery | 9일 | HTML, CSS, JavaScript | 백엔드 API 설계, DB 설계, UI 제작 | 사용자 친화적인 택배 접수, 조회를 할 수 있는 서비를 목표로 하였습니다.
+| Resonos             | 3주 | Spring Boot, React, MySQL | 백엔드 API 설계, DB 설계, UI 제작 | 한국 친화적인 음악 리뷰 커뮤니티 서비스
+| The Joyful Delivery | 9일 | HTML, CSS, JavaScript | 백엔드 API 설계, DB 설계, UI 제작 | 좀 더 편리한 택배 접수, 조회를 할 수 있는 서비스
 
 
 <div align="center">
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-0210&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-0210&langs_count=10)
+  
 </div>
+
 <br>
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
