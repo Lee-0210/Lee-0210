@@ -1,7 +1,6 @@
 # 안녕하세요 풀스택 개발자 이준영입니다.
 
-### 기술
-<br>
+### 기술 <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
