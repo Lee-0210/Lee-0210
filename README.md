@@ -6,7 +6,7 @@
 
 |      | 이름 / 소개 | 연락 & 링크 |
 |------|------------|------------|
-| <img src="https://github.com/user-attachments/assets/bf1578ad-90db-4970-95a8-a0b6c8d8d05c" alt="준영 프로필" width="120" style="border-radius:50%;"> | **이준영**<br>풀스택 개발자<br>개발 지식을 채우고자 IT 전문 교육을 들으며 전반적인 프로그래밍 언어를 학습하고 있습니다. | [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://blog.naver.com/tjsans9069)<br>[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://innate-rise-1ac.notion.site/295bda6f1a1141499d455877e24f4cf2?pvs=4)
+| <img src="https://github.com/user-attachments/assets/bf1578ad-90db-4970-95a8-a0b6c8d8d05c" alt="준영 프로필" width="120" style="border-radius:50%;"> | **이준영**<br>풀스택 개발자<br>개발 지식을 채우고자 IT 전문 교육을 들으며 <br> 전반적인 프로그래밍 언어를 학습하고 있습니다. | [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://blog.naver.com/tjsans9069)<br>[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&color=black&labelColor=white)](https://innate-rise-1ac.notion.site/295bda6f1a1141499d455877e24f4cf2?pvs=4)
 
 
 
