@@ -21,11 +21,12 @@
   
 </div>
 
-| 프로젝트명          | 기간 | 기술 스택 | 역할 | 프로젝트 설명 |
-|-----------          |------|-----------|------|--- |
-| <a href="https://github.com/Lee-0210/Resonos_React">Resonos</a> | 2025.08.06 ~ 2025.08.22 | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | resonos 프로젝트 리빌드 + 자유커뮤니티 서비스
-| <a href="https://github.com/ruff1376/Resonos">Resonos</a> | 2025.06.26 ~ 2025.07.22 | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | 한국 친화적인 음악 리뷰 커뮤니티 서비스
-| <a href="https://github.com/skymin022/the_joyful_delivery">The Joyful Delivery</a> | 2025.05.16 ~ 2025.05.28 | HTML, CSS, JavaScript | API 설계, DB 설계, UI 구현 | 좀 더 편리한 택배 접수, 조회를 할 수 있는 서비스
+| 프로젝트명 | 기간 | 기술 스택 | 역할 | 프로젝트 설명 |
+|------------|------|-----------|------|-------------------------|
+| [Resonos_React](https://github.com/Lee-0210/Resonos_React) | 2025.08.06 ~ 2025.08.22 | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | resonos 프로젝트 리빌드 + 자유커뮤니티 서비스 |
+| [Resonos](https://github.com/ruff1376/Resonos) | 2025.06.26 ~ 2025.07.22 | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | 한국 친화적인 음악 리뷰 커뮤니티 서비스 |
+| [The Joyful Delivery](https://github.com/skymin022/the_joyful_delivery) | 2025.05.16 ~ 2025.05.28 | HTML, CSS, JavaScript | API 설계, DB 설계, UI 구현 | 좀 더 편리한 택배 접수, 조회 서비스 |
+
 
 
 <div align="center">
