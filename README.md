@@ -1,5 +1,5 @@
 <!-- 인사말 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=🖐%20안녕하세요,%20풀스택%20개발자%20이준영입니다.&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=red&height=250&section=header&text=🖐%20안녕하세요,%20풀스택%20개발자%20이준영입니다.&fontSize=32)
 
 <!-- 내 정보 -->
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="40" height="40" /> 소개</h2>
@@ -45,6 +45,7 @@
 | [Tcp(티켓링크 프로젝트)](https://github.com/wkdqls00/Tcp2) | 2024.07.04 ~ 2024.08.13 | JSP/Servlet, Oracle | API 설계, DB 설계, UI 구현 | 국내 공연 티켓 예매 + 게시판 채팅 커뮤니티 서비스 |
 
 
+<br>
 <br>
 <br>
 <br>
