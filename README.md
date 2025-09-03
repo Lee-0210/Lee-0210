@@ -1,5 +1,5 @@
 <!-- 인사말 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🖐%20안녕하세요,%20풀스택%20개발자%20이준영입니다.&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=🖐%20안녕하세요,%20풀스택%20개발자%20이준영입니다.&fontSize=32)
 
 <!-- 내 정보 -->
 <h3>🧑🏻 소개</h3>
