@@ -59,7 +59,7 @@
 
 <div>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-0210&langs_count=5) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-0210&langs_count=3) 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-0210&show_icons=true&theme=transparent)
   
 </div>
