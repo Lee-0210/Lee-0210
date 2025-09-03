@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=🖐%20안녕하세요,%20풀스택%20개발자%20이준영입니다.&fontSize=32)
 
 <!-- 내 정보 -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="30" height="30" /> 소개</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="35" height="35" /> 소개</h3>
 
 |      | 이름 / 소개 | 연락 & 링크 |
 |------|------------|------------|
@@ -36,7 +36,7 @@
 <br>
 
 <!-- 프로젝트 테이블 -->
-<h3>🧑‍💻진행한 프로젝트</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="35" height="35" /> 진행한 프로젝트</h3>
 
 | 프로젝트명 | 기간 | 기술 스택 | 역할 | 프로젝트 설명 |
 |------------|------|-----------|------|-------------------------|
