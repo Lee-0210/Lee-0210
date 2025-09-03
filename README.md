@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=🖐%20안녕하세요,%20풀스택%20개발자%20이준영입니다.&fontSize=32)
 
 <!-- 내 정보 -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="40" height="40" /> 소개</h3>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="40" height="40" /> 소개</h2>
 
 |      | 이름 / 소개 | 연락 & 링크 |
 |------|------------|------------|
@@ -12,7 +12,7 @@
 <br>
 
 <!-- 기술 스택 -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="40" height="40" /> 기술 스택</h3>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="40" height="40" /> 기술 스택</h2>
 <div>
 
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -36,7 +36,7 @@
 <br>
 
 <!-- 프로젝트 테이블 -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" /> 진행한 프로젝트</h3>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" /> 진행한 프로젝트</h2>
 
 | 프로젝트명 | 기간 | 기술 스택 | 역할 | 프로젝트 설명 |
 |------------|------|-----------|------|-------------------------|
