@@ -1,5 +1,5 @@
 <!-- 인사말 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=red&height=250&section=header&text=🖐%20안녕하세요,%20풀스택%20개발자%20이준영입니다.&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=🖐%20안녕하세요,%20풀스택%20개발자%20이준영입니다.&fontSize=32)
 
 <!-- 내 정보 -->
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="40" height="40" /> 소개</h2>
