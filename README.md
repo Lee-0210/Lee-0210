@@ -37,12 +37,12 @@
 <!-- 프로젝트 테이블 -->
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="40" height="40" /> 진행한 프로젝트</h2>
 
-| 프로젝트명 | 기간 | 기술 스택 | 역할 | 프로젝트 설명 |
-|------------|------|-----------|------|-------------------------|
-| [Resonos_React](https://github.com/Lee-0210/Resonos_React) | 2025.08.06 ~ 2025.08.22 | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | resonos 프로젝트 리빌드 + 자유커뮤니티 서비스 |
-| [Resonos](https://github.com/ruff1376/Resonos) | 2025.06.26 ~ 2025.07.22 | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | 한국 친화적인 음악 리뷰 커뮤니티 서비스 |
-| [The Joyful Delivery](https://github.com/skymin022/the_joyful_delivery) | 2025.05.16 ~ 2025.05.28 | JSP/Servlet, MySQL | API 설계, DB 설계, UI 구현 | 편리한 택배 접수, 조회 서비스 |
-| [Tcp(티켓링크 프로젝트)](https://github.com/wkdqls00/Tcp2) | 2024.07.04 ~ 2024.08.13 | JSP/Servlet, Oracle | API 설계, DB 설계, UI 구현 | 국내 공연 티켓 예매 + 게시판 채팅 커뮤니티 서비스 |
+| 프로젝트명 | 기술 스택 | 역할 | 프로젝트 설명 |
+|------------|----------|------|---------------|
+| <a href="https://github.com/Lee-0210/Resonos_React"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lee-0210&repo=Resonos_React&theme=red" /></a> | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | resonos 프로젝트 리빌드 + 자유커뮤니티 서비스 |
+| <a href="https://github.com/ruff1376/Resonos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ruff1376&repo=Resonos&theme=red"/></a> | Spring Boot, React, MySQL | API 설계, DB 설계, UI 구현 | 한국 친화적인 음악 리뷰 커뮤니티 서비스 |
+| <a href="https://github.com/skymin022/the_joyful_delivery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=skymin022&repo=the_joyful_delivery&theme=red"/></a>  | JSP/Servlet, MySQL | API 설계, DB 설계, UI 구현 | 편리한 택배 접수, 조회 서비스 |
+| <a href="https://github.com/wkdqls00/Tcp2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wkdqls00&repo=Tcp2&theme=red"/></a> | JSP/Servlet, Oracle | API 설계, DB 설계, UI 구현 | 국내 공연 티켓 예매 + 게시판 채팅 커뮤니티 서비스 |
 
 
 <br>
