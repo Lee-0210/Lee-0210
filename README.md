@@ -54,8 +54,8 @@
 <!-- API -->
 <div>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-0210&langs_count=3) 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-0210&show_icons=true&theme=transparent)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-0210&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-0210&show_icons=true&theme=tokyonight)
   
 </div>
 
